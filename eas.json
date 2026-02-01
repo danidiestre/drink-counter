@@ -13,9 +13,7 @@
         "simulator": false
       }
     },
-    "production": {
-      "node": "20.x.x"
-    }
+    "production": {}
   },
   "submit": {
     "production": {}
